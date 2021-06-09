@@ -1,7 +1,7 @@
 # Advanced Software Engineering Model (ASEM)  
-Advanced Software Engineering Model (ASEM)  is a cloud native software engineering model based on DevOps which is created for the third software engineering revolution.
+Advanced Software Engineering Model (ASEM)  is a cloud native oriented software engineering model based on DevOps which is created for the third software engineering revolution.
 
-ASEM consists of 4 parts:
+ASEM consists of 7 parts:
 
 ### Part1: Development Management
 
