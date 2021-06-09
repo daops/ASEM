@@ -15,11 +15,11 @@ Github Repository: [daops/asem-software-delivery [pravite]](https://github.com/d
 
 ### Part4: DevSecOps
 
-### Part5: Application Desgin
+### Part5: Application Design
 
 ### Part6: Platform and Tool
 
-### Part7: Oraganization and Culture
+### Part7: Organization and Culture
 
 
 
